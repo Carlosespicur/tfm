@@ -1,0 +1,1 @@
+{"learning_rate": 0.001, "batch_size": 64, "epochs": 1000, "latent_size": 64, "kernel_param_X": {"kernel_type": "polynomial", "degree": 3, "gamma": 0.01, "coef": 50.0}, "kernel_param_Y": null, "label_indep": true}
